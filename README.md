@@ -20,7 +20,7 @@ npm start
 
 ## Usage :school_satchel:
 
-> This project was built solely for the purpose of practicing React class components, React components state management and component LyfeCycles
+> This project was built solely for the purpose of practicing React class components, React components state management and component Life Cycles
 
 ## Tecnologies Used :nut_and_bolt:
 
