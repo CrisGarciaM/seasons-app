@@ -4,12 +4,18 @@
 
 > This is a small React.js app, uses the Geolocation API to identify the users location and displays a small message to the user depending on the emisphere he/she is located in.
 
-## Install :rocket:
+## Install and run :rocket:
 
-> In order to run this project, just donwload repository, open in your code editor and run the following command so dependencies are install correctly.
+> In order to run this project, just download repository, open in your code editor and run the following command so dependencies are install correctly.
 
 ```sh
 npm install
+```
+
+> To render this app in a browser, just open a terminal and run the following command
+
+```sh
+npm start
 ```
 
 ## Usage :school_satchel:
