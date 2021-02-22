@@ -4,17 +4,25 @@
 
 > This is a small React.js app, uses the Geolocation API to identify the users location and displays a small message to the user depending on the emisphere he/she is located in.
 
-## Install
+## Install :rocket:
+
+> In order to run this project, just donwload repository, open in your code editor and run the following command so dependencies are install correctly.
 
 ```sh
-In order to run this project, just donwload repository and run npm install so dependencies are correcly install
+npm install
 ```
 
-## Usage
+## Usage :school_satchel:
 
-```sh
-This project was built solely for the purpose of practicing React class components, React components state management and component LyfeCycles
-```
+> This project was built solely for the purpose of practicing React class components, React components state management and component LyfeCycles
+
+## Tecnologies Used :nut_and_bolt:
+
+- Javascript
+- REACT.JS
+- CSS
+- Geolocation API
+- Semantic UI CSS
 
 ## Author
 
